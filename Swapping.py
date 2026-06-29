@@ -1,5 +1,5 @@
-a = int(input("Enter the first number:5"))
-b = int(input("Enter the second number:10"))
+a = input("Enter the first number:"))
+b = input("Enter the second number:"))
 
 print("\nBefore swapping:")
 print("First number =", a)
