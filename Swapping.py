@@ -1,13 +1,13 @@
-a = int(input("Enter the first number: "))
-b = int(input("Enter the second number: "))
+a = int(input("Enter the first number:5"))
+b = int(input("Enter the second number:10"))
 
 print("\nBefore swapping:")
-print("First number = 5", a)
-print("Second number = 10", b)
+print("First number =", a)
+print("Second number =", b)
 
 
 a, b = b, a
 
 print("\nAfter swapping:")
-print("First number = 10", a)
-print("Second number = 5", b)
+print("First number =", a)
+print("Second number =", b)
